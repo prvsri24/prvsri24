@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prvsri24
-- 👀 I’m interested in Technology,Design, Startups, Travel, Food & Formula 1
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on side projects
+- 👀 I’m interested in Technology,Design, Startups
+- 🌱 I’m a Senior Technical Product Leader 
+- 💞️ Love Travel, Food & Formula 1
 - 📫 How to reach me: Linkedin
 
 <!---
